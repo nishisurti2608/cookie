@@ -1,5 +1,5 @@
 
-# Scrimba Module-1 
+# Scrimba Module-5
 
 This is a solo project to revise your all knowledge about basic JS Cookie Consent. 
 
