@@ -1,11 +1,35 @@
-## Scrimba
 
-✅ setTimeout
-✅ element.style
-✅ forms
-✅ Input Field
-✅ formData & get()
-✅ event.preventDefault
-✅ CSS : Row-reverse
-✅ Toggling classes
-✅ disabled attribute
+# Scrimba Module-1 
+
+This is a solo project to revise your all knowledge about basic JS Cookie Consent. 
+
+
+
+## Topics covered in Module-5
+
+1. setTimeout
+2. element.style 
+3. forms
+4. Input Field
+5. formData & get()
+6. event.preventDefault
+7. CSS : Row-reverse
+8. Toggling classes
+9. disabled attribute
+ 
+
+
+## About Scrimba
+
+At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
+If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
+The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+
+- [Our courses](https://scrimba.com/allcourses)
+- [The Frontend Career Path](https://scrimba.com/learn/frontend)
+- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+
+Happy Coding!
+
+
+
